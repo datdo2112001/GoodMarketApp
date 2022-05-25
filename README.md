@@ -1,30 +1,12 @@
-<<<<<<< HEAD
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
 # MarketApp
+Framework: Ruby on rails
+Install:
++ Mở terminal ubuntu.
++ brew install ruby.
++ gem install rails.
++ bundle install.
++ rails s để chạy app.
 
 - Tính năng:
 + Đăng nhập. 
@@ -52,4 +34,4 @@ $> rails s -b 'ssl://localhost:3000?key=localhost.key&cert=localhost.crt'
 
 
 
->>>>>>> 09287a83f17ef8ee7e40202df546f64653e39406
+
